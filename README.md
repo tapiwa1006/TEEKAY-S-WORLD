@@ -74,7 +74,7 @@ It offfers both peak performance and comfortability.
 
       <figure align="right"> 
 
-        <img src=""C:\Users\bida23-055\Downloads\A45.jpg"="200" height="100"> 
+        <img src="https://github.com/tapiwa1006/TEEKAY-S-WORLD/blob/main/A45.jpg" style="width:500px;height:600px;"> 
 
       </figure> 
 
