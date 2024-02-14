@@ -74,7 +74,7 @@ It offfers both peak performance and comfortability.
 
       <figure align="right"> 
 
-        <img src="img_girl.jpg" alt="Girl in a jacket width="200" height="100"> 
+        <img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com width="200" height="100"> 
 
       </figure> 
 
