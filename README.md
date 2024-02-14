@@ -74,7 +74,7 @@ It offfers both peak performance and comfortability.
 
       <figure align="right"> 
 
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.topgear.com%2Flong-term-car-reviews%2Fmercedes-benz%2Famg-a45%2F20-5dr-auto%2Freport-1&psig=AOvVaw2Vl9ojqb-klPkOzJU-bBG0&ust=1707990146578000&source=images&cd=vfe&opi=89978449&ved=0CBMQjhxqFwoTCKCQ36LFqoQDFQAAAAAdAAAAABADwidth="200" height="100"> 
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.topgear.com%2Flong-term-car-reviews%2Fmercedes-benz%2Famg-a45%2F20-5dr-auto%2Freport-1&psig=AOvVaw2Vl9ojqb-klPkOzJU-bBG0&ust=1707990146578000&source=images&cd=vfe&opi=89978449&ved=0CBMQjhxqFwoTCKCQ36LFqoQDFQAAAAAdAAAAABAD width="200" height="100"> 
 
       </figure> 
 
